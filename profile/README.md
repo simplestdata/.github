@@ -15,13 +15,17 @@ Simplest Data is dedicated to modernizing learning data infrastructure. Rooted i
 ### Who We Are
 - Research-focused engineers aligned with the IEEE xAPI 9274 specification and LTSC Working Groups.
 
+### Useful & Fantastic Resources
+
+- [xAPI Base Standard Specifications](https://opensource.ieee.org/xapi/xapi-base-standard-documentation)
+- [xAPI Profiles official documentation](https://adlnet.github.io/xapi-profiles/xapi-profiles-about.html)
+- [P92741.1 xAPI Work Group IEEE Page](https://sagroups.ieee.org/9274-1-1/)
+- [IEEE Learning Technology Standards Committee (LTSC) Active Working Groups - TLA RX](https://sagroups.ieee.org/ltsc/workgroups/)
+
 **Our mission is to contribute to globalizing xAPI adotoption and the on-going development of TLA systems. Lowering the barrier of entry to leveraging our community technology and knowledge.**
 
 Join the TLA Study Group and participate in community research and collaboration, [inquire here.](mailto:greg@simplestdata.com)
 <!--
 
-**Consider Adding**
-
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+**Consider Adding** Contribution guidelines - how can the community get involved?
 -->
