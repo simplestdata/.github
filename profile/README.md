@@ -2,9 +2,9 @@
 
 Simplest Data is dedicated to modernizing learning data infrastructure. Rooted in open standards like [IEEE xAPI 9274](https://opensource.ieee.org/xapi/xapi-base-standard-documentation) and supported by the [IEEE Learning Technology Standards Committee (LTSC) Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) community led research. By reducing friction in educational technologies, we contribute to a more transparent and scalable learning ecosystem—one defined by ethical design, open collaboration, and a shared commitment to shaping the future of educational interoperability.
 
-- Check out our [**main project**](https://github.com/simplestdata/lrsql) here. The core of our efforts.
-- Learn more how to **self-host via our docs.** *coming soon*
-- Not interest in hosting yourself? We offer **Simplest Data cloud** for a monthly fee. *coming soon* 
+- Check out our [**main project**](https://github.com/simplestdata/orientlrs) here. The core of our efforts.
+- Learn more how to **self-host via our [docs](https://docs.simplestdata.com).** *coming soon* 🚧
+- Not interest in hosting yourself? We offer **Simplest Data cloud** for a monthly fee. *coming soon*
 
 ### Our Contributions & Approach
 
