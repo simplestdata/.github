@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-Simplest Data is dedicated to modernizing learning data infrastructure. Rooted in open standards like [IEEE xAPI 9274](https://opensource.ieee.org/xapi/xapi-base-standard-documentation) and supported by the [IEEE Learning Technology Standards Committee (LTSC) Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) community led research. By reducing friction in educational technologies, we contribute to a more transparent and scalable learning ecosystem—one defined by ethical design, open collaboration, and a shared commitment to shaping the future of educational interoperability.
+Simplest Data is developing towards a Total Learning Architecture to help K-12 Schools close insight gaps with modern xAPI complete and connected data. Rooted in open standards like [IEEE xAPI 9274](https://opensource.ieee.org/xapi/xapi-base-standard-documentation) and supported by the [IEEE Learning Technology Standards Committee (LTSC) Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) community led research. By reducing friction in educational technologies, we contribute to a more transparent and scalable learning ecosystem—one defined by ethical design, open collaboration, and a shared commitment to shaping the future of educational interoperability.
 
-- Check out our [**main project**](https://github.com/simplestdata/orientlrs) here. The core of our efforts.
+- Check out the [**core product**](https://github.com/simplestdata/lrs) here.
 - Learn more how to **self-host via our [docs](https://docs.simplestdata.com).** *coming soon* 🚧
 - Not interest in hosting yourself? We offer **Simplest Data cloud** for a monthly fee. *coming soon*
 
 ### Our Contributions & Approach
 
 - 📚 Advocate for lifelong learning systems.
-- 🤝 Committed to open-source collaboration and will contribute to the broader IEEE LTSC communities. *All our work is developed and distributed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)*
+- 🤝 Committed to open-source collaboration and will contribute to the broader IEEE LTSC communities. *Much of our work is developed, discovered, and distributed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)*
 - 🌱 Actively participate in standards evolution by testing and reporting on real-world applications.
 
 ### Who We Are
