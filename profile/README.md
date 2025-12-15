@@ -1,19 +1,17 @@
 ## Hi there 👋
 
-Simplest Data is developing towards a Total Learning Architecture to help K-12 Schools close insight gaps with modern xAPI complete and connected data. Rooted in open standards like [IEEE xAPI 9274](https://opensource.ieee.org/xapi/xapi-base-standard-documentation) and supported by the [IEEE Learning Technology Standards Committee (LTSC) Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) community led research. By reducing friction in educational technologies, we contribute to a more transparent and scalable learning ecosystem—one defined by ethical design, open collaboration, and a shared commitment to shaping the future of educational interoperability.
+Simplest Data is developing towards implementing xAPI in K-12 Schools without replacing existing technology stacks, starting in Richmond, VA. Leveraging open standards like [IEEE xAPI 9274](https://opensource.ieee.org/xapi/xapi-base-standard-documentation) and supported by the [IEEE Learning Technology Standards Committee (LTSC) Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) community led research. By reducing friction in educational technologies, we contribute to a more transparent and scalable learning ecosystem—one defined by ethical design, open collaboration, and a shared commitment to shaping the future of educational interoperability.
 
-- Check out the [**core product**](https://github.com/simplestdata/lrs) here.
-- Learn more how to **self-host via our [docs](https://docs.simplestdata.com).** *coming soon* 🚧
-- Not interest in hosting yourself? We offer **Simplest Data cloud** for a monthly fee. *coming soon*
+### DEVELOPMENT IN PROGRESS - EXPECTED RELEASE FEBRUARY 2026
 
-### Our Contributions & Approach
+- Check out [**Yet Analytics - SQL LRS**](https://github.com/yetanalytics/sqlrs) here. This is a clojure based project that is an excellent resource. Simplest Data is using this repo (and overall their work truly) as a 'northern star' reference in our Python based efforts.
+- Check out [**Trax LRS**](https://traxlrs.com/) here. This is a php based LRS that sparked this organizations initial interest and curiosity.
+- Special shout out to [Yet Analytics](https://www.yetanalytics.com/) CEO / Co-Founder for reaching out and informing me about IEEE LTSC and their work initially - I don't believe I would have dived in otherwise to focus on the systematic data in public schooling otherwise.
 
-- 📚 Advocate for lifelong learning systems.
-- 🤝 Committed to open-source collaboration and will contribute to the broader IEEE LTSC communities. *Much of our work is developed, discovered, and distributed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)*
-- 🌱 Actively participate in standards evolution by testing and reporting on real-world applications.
+### Commitment
 
-### Who We Are
-- Research-focused engineers aligned with the IEEE xAPI 9274 specification and LTSC Working Groups.
+- Committed to open-source collaboration and will contribute to the broader [IEEE LTSC](https://sagroups.ieee.org/ltsc/workgroups/) communities.
+- Committed to bringing research and technology to Richmond, VA and the greater Commonwealth of Virginia.
 
 ### Useful & Fantastic Resources
 
@@ -22,10 +20,4 @@ Simplest Data is developing towards a Total Learning Architecture to help K-12 S
 - [P92741.1 xAPI Work Group IEEE Page](https://sagroups.ieee.org/9274-1-1/)
 - [IEEE Learning Technology Standards Committee (LTSC) Active Working Groups - TLA RX](https://sagroups.ieee.org/ltsc/workgroups/)
 
-**Our mission is to contribute to globalizing xAPI adotoption and the on-going development of TLA systems. Lowering the barrier of entry to leveraging our community technology and knowledge.**
-
-Join the TLA Study Group and participate in community research and collaboration, [inquire here.](mailto:greg@simplestdata.com)
-<!--
-
-**Consider Adding** Contribution guidelines - how can the community get involved?
--->
+**Our mission is to enrich our local public school systems with normalized data in Richmond, VA.**
