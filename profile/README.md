@@ -1,23 +1,79 @@
 ## Hi there 👋
 
-Simplest Data is developing towards implementing xAPI in K-12 Schools without replacing existing technology stacks, starting in Richmond, VA. Leveraging open standards like [IEEE xAPI 9274](https://opensource.ieee.org/xapi/xapi-base-standard-documentation) and supported by the [IEEE Learning Technology Standards Committee (LTSC) Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) community led research. By reducing friction in educational technologies, we contribute to a more transparent and scalable learning ecosystem—one defined by ethical design, open collaboration, and a shared commitment to shaping the future of educational interoperability.
+Our public mission is K‑12 interoperability; this GitHub org is where we ship the developer tooling that makes it real.
 
-### DEVELOPMENT IN PROGRESS - EXPECTED RELEASE FEBRUARY 2026
+**Simplest Data is building a K‑12 learning data infrastructure platform** a practical **data router + integration toolkit** that helps EdTech developers connect learning tools to other tools (and to district/state workflows) using **xAPI (IEEE 9274)**, without forcing "rip-and-replace" changes to existing stacks.
 
-- Check out [**Yet Analytics - SQL LRS**](https://github.com/yetanalytics/sqlrs) here. This is a clojure based project that is an excellent resource. Simplest Data is using this repo (and overall their work truly) as a 'northern star' reference in our Python based efforts.
-- Check out [**Trax LRS**](https://traxlrs.com/) here. This is a php based LRS that sparked this organizations initial interest and curiosity.
-- Special shout out to [Yet Analytics](https://www.yetanalytics.com/) CEO / Co-Founder for reaching out and informing me about IEEE LTSC and their work initially - I don't believe I would have dived in otherwise to focus on the systematic data in public schooling otherwise.
+We're starting in **Richmond, VA** and designing for real school constraints: legacy systems, strict data boundaries, and the need for incremental rollout.
 
-### Commitment
+---
 
-- Committed to open-source collaboration and will contribute to the broader [IEEE LTSC](https://sagroups.ieee.org/ltsc/workgroups/) communities.
-- Committed to bringing research and technology to Richmond, VA and the greater Commonwealth of Virginia.
+## What we're building
 
-### Useful & Fantastic Resources
+- **Learning data infra platform** for routing and normalizing learning activity data
+- **Data router** patterns to move statements/events between systems reliably
+- **Integration toolkit (SDK)** (Python-first) to help vendors and district teams:
+  - produce and validate xAPI statements
+  - apply profiles/validation rules (where applicable)
+  - route data to downstream consumers (analytics, reporting, interoperability services)
+  - incrementally integrate without breaking existing workflows
 
-- [xAPI Base Standard Specifications](https://opensource.ieee.org/xapi/xapi-base-standard-documentation)
-- [xAPI Profiles official documentation](https://adlnet.github.io/xapi-profiles/xapi-profiles-about.html)
-- [P92741.1 xAPI Work Group IEEE Page](https://sagroups.ieee.org/9274-1-1/)
-- [IEEE Learning Technology Standards Committee (LTSC) Active Working Groups - TLA RX](https://sagroups.ieee.org/ltsc/workgroups/)
+---
 
-**Our mission is to enrich our local public school systems with normalized data in Richmond, VA.**
+## Who this is for
+
+- **EdTech developers** who want a backend "interop layer" to connect their product to other products
+- **District/state developers** building standardized data workflows
+- **Standards-aligned builders** who want to implement IEEE xAPI 9274 in production contexts
+
+---
+
+## Status / timeline
+
+**Development in progress**  
+**Initial release target: February 2026**
+
+---
+
+## Coming soon
+
+- **Developer SDKs** for integrating xAPI workflows faster
+- A hands-on **Jupyter/Notebook workspace** with runnable examples and reference implementations
+- Example connectors and templates aimed at real K‑12 integration scenarios
+
+---
+
+## Principles
+
+- **Open standards first** (IEEE xAPI 9274 and related work)
+- **Incremental adoption** over rip-and-replace
+- **Ethical, student-centered data stewardship**
+- **Pragmatic engineering** for K‑12 realities
+
+---
+
+## Collaboration model (open + private)
+
+We support both:
+- **Open-source components** (to accelerate adoption and shared infrastructure)
+- **Private development** (partner-specific integrations, deployments, or constraints)
+
+If you're exploring either path, start a GitHub Discussion with your use case and constraints. Or email us at greg@simplestdata.com
+
+---
+
+## Standards & resources
+
+- xAPI Base Standard (IEEE 9274): https://opensource.ieee.org/xapi/xapi-base-standard-documentation
+- xAPI Profiles: https://adlnet.github.io/xapi-profiles/xapi-profiles-about.html
+- IEEE LTSC Working Groups: https://sagroups.ieee.org/ltsc/workgroups/
+- P9274.1.1 Working Group page: https://sagroups.ieee.org/9274-1-1/
+
+---
+
+## Get involved
+
+Open an issue/discussion with:
+- the tools you need to connect (SIS / LMS / assessment / content / apps)
+- your target outputs (analytics, reporting, interoperability, state workflows)
+- your deployment requirements (cloud vs on‑prem, data boundaries, security constraints)
