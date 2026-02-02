@@ -6,8 +6,6 @@ Our public mission is K‑12 interoperability; this GitHub org is where we ship 
 
 We're starting in **Richmond, VA** and designing for real school constraints: legacy systems, strict data boundaries, and the need for incremental rollout.
 
----
-
 ## What we're building
 
 - **Learning data infra platform** for routing and normalizing learning activity data
@@ -18,22 +16,16 @@ We're starting in **Richmond, VA** and designing for real school constraints: le
   - route data to downstream consumers (analytics, reporting, interoperability services)
   - incrementally integrate without breaking existing workflows
 
----
-
 ## Who this is for
 
 - **EdTech developers** who want a backend "interop layer" to connect their product to other products
 - **District/state developers** building standardized data workflows
 - **Standards-aligned builders** who want to implement IEEE xAPI 9274 in production contexts
 
----
-
 ## Status / timeline
 
 **Development in progress**  
 **Initial release target: February 2026**
-
----
 
 ## Coming soon
 
@@ -41,16 +33,12 @@ We're starting in **Richmond, VA** and designing for real school constraints: le
 - A hands-on **Jupyter/Notebook workspace** with runnable examples and reference implementations
 - Example connectors and templates aimed at real K‑12 integration scenarios
 
----
-
 ## Principles
 
 - **Open standards first** (IEEE xAPI 9274 and related work)
 - **Incremental adoption** over rip-and-replace
 - **Ethical, student-centered data stewardship**
 - **Pragmatic engineering** for K‑12 realities
-
----
 
 ## Collaboration model (open + private)
 
@@ -60,16 +48,12 @@ We support both:
 
 If you're exploring either path, start a GitHub Discussion with your use case and constraints. Or email us at greg@simplestdata.com
 
----
-
 ## Standards & resources
 
 - xAPI Base Standard (IEEE 9274): https://opensource.ieee.org/xapi/xapi-base-standard-documentation
 - xAPI Profiles: https://adlnet.github.io/xapi-profiles/xapi-profiles-about.html
 - IEEE LTSC Working Groups: https://sagroups.ieee.org/ltsc/workgroups/
 - P9274.1.1 Working Group page: https://sagroups.ieee.org/9274-1-1/
-
----
 
 ## Get involved
 
