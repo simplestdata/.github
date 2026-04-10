@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Our public mission is K‑12 interoperability; this GitHub org is where we ship the developer tooling that makes it real.
+Our public mission is K‑12 data portability, infrastructure, and interoperability; this GitHub org is where we ship avialable Open Source developer tooling that we preiodically release.
 
-**Simplest Data is building a K‑12 learning data infrastructure platform** a practical **data router + integration toolkit** that helps EdTech developers connect learning tools to other tools (and to district/state workflows) using **xAPI (IEEE 9274)**, without forcing "rip-and-replace" changes to existing stacks.
+**Simplest Data is building The K‑12 Data Layer**, a practical **data router + integration toolkit** that helps EdTech developers connect learning tools to other tools (and to district/state workflows) using **xAPI (IEEE 9274)**, without forcing "rip-and-replace" changes to existing stacks.
 
 We're starting in **Richmond, VA** and designing for real school constraints: legacy systems, strict data boundaries, and the need for incremental rollout.
 
@@ -24,8 +24,7 @@ We're starting in **Richmond, VA** and designing for real school constraints: le
 
 ## Status / timeline
 
-**Development in progress**  
-**Initial release target: February 2026**
+**On-going micro releases**
 
 ## Coming soon
 
@@ -61,3 +60,5 @@ Open an issue/discussion with:
 - the tools you need to connect (SIS / LMS / assessment / content / apps)
 - your target outputs (analytics, reporting, interoperability, state workflows)
 - your deployment requirements (cloud vs on‑prem, data boundaries, security constraints)
+
+Copyright © 2026-2029 GridLinden, Inc.
