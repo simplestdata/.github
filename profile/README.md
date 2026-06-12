@@ -1,64 +1,71 @@
-## Hi there 👋
+# Hi there 👋
 
-Our public mission is K‑12 data portability, infrastructure, and interoperability; this GitHub org is where we ship avialable Open Source developer tooling that we preiodically release.
+Simplest Data is focused on serving K–12 education in data portability, infrastructure, and interoperability.
 
-**Simplest Data is building The K‑12 Data Layer**, a practical **data router + integration toolkit** that helps EdTech developers connect learning tools to other tools (and to district/state workflows) using **xAPI (IEEE 9274)**, without forcing "rip-and-replace" changes to existing stacks.
+This GitHub organization contains the open-source tools, libraries, examples, and experiments that we choose to release publicly as part of that mission.
 
-We're starting in **Richmond, VA** and designing for real school constraints: legacy systems, strict data boundaries, and the need for incremental rollout.
+Our broader product development happens privately, but when we build something that can benefit the wider education technology community, we aim to release it here whenever practical.
 
-## What we're building
+We're starting where we're based in Richmond, Virginia and designing for real school constraints: legacy systems, strict data boundaries, procurement realities, and the need for incremental adoption.
 
-- **Learning data infra platform** for routing and normalizing learning activity data
-- **Data router** patterns to move statements/events between systems reliably
-- **Integration toolkit (SDK)** (Python-first) to help vendors and district teams:
-  - produce and validate xAPI statements
-  - apply profiles/validation rules (where applicable)
-  - route data to downstream consumers (analytics, reporting, interoperability services)
-  - incrementally integrate without breaking existing workflows
+## What you'll find here (some to come over time)
 
-## Who this is for
+* Open-source developer tooling
+* Reference implementations
+* narrow SDKs and utilities
+* Standards-related experiments and prototypes
+* Documentation and educational resources
 
-- **EdTech developers** who want a backend "interop layer" to connect their product to other products
-- **District/state developers** building standardized data workflows
-- **Standards-aligned builders** who want to implement IEEE xAPI 9274 in production contexts
+If we've forked a repository, it's usually because we're actively evaluating, learning from, or *insert interesting use case here, many reasons why we do so. Forks should be viewed as signals of interest rather than endorsements.
 
-## Status / timeline
+## Areas of interest
 
-**On-going micro releases**
+Our work is centered around:
 
-## Coming soon
-
-- **Developer SDKs** for integrating xAPI workflows faster
-- A hands-on **Jupyter/Notebook workspace** with runnable examples and reference implementations
-- Example connectors and templates aimed at real K‑12 integration scenarios
+* Learning data interoperability
+* xAPI (IEEE 9274) - Generally, IEEE LTSC on-going work
+* 1EdTech standards
+* Data routing and integration patterns
+* Developer tooling for education technology
+* Practical approaches to K–12 data portability and modeling
 
 ## Principles
 
-- **Open standards first** (IEEE xAPI 9274 and related work)
-- **Incremental adoption** over rip-and-replace
-- **Ethical, student-centered data stewardship**
-- **Pragmatic engineering** for K‑12 realities
+* Incremental adoption over rip-and-replace
+* Ethical, student-centered data stewardship
+* Pragmatic engineering for K–12 realities
+* Curiosity. Simple.
 
-## Collaboration model (open + private)
+## Open Source and Private Development Stance
 
-We support both:
-- **Open-source components** (to accelerate adoption and shared infrastructure)
-- **Private development** (partner-specific integrations, deployments, or constraints)
+We support both open and private development models.
 
-If you're exploring either path, start a GitHub Discussion with your use case and constraints. Or email us at greg@simplestdata.com
+Some components are released as open source to encourage adoption, transparency, and shared infrastructure. Other work remains private due to partner requirements, deployment constraints, security considerations, or ongoing product development.
 
-## Standards & resources
+Not everything we build will appear in this organization, but everything here reflects problems we care deeply about solving.
 
-- xAPI Base Standard (IEEE 9274): https://opensource.ieee.org/xapi/xapi-base-standard-documentation
-- xAPI Profiles: https://adlnet.github.io/xapi-profiles/xapi-profiles-about.html
-- IEEE LTSC Working Groups: https://sagroups.ieee.org/ltsc/workgroups/
-- P9274.1.1 Working Group page: https://sagroups.ieee.org/9274-1-1/
+## Core Standards & Resources
 
-## Get involved
+### xAPI Base Standard (IEEE 9274)
 
-Open an issue/discussion with:
-- the tools you need to connect (SIS / LMS / assessment / content / apps)
-- your target outputs (analytics, reporting, interoperability, state workflows)
-- your deployment requirements (cloud vs on‑prem, data boundaries, security constraints)
+https://opensource.ieee.org/xapi/xapi-base-standard-documentation
 
-Copyright © 2026-2029 GridLinden, Inc.
+### IEEE LTSC Working Groups
+
+https://sagroups.ieee.org/ltsc/workgroups/
+
+## Get Involved
+
+Open an issue or discussion if you'd like to talk about:
+
+* SIS, LMS, assessment, content, or application integrations
+* Learning data interoperability challenges
+* xAPI implementation questions
+* K–12 deployment requirements, constraints, legislation (and so on)
+* Open-source collaboration opportunities or private licensing
+
+You can also reach us at [greg@simplestdata.com](mailto:greg@simplestdata.com).
+
+---
+
+Copyright © 2026–2029 GridLinden, Inc.
